@@ -1,0 +1,6 @@
+
+Reconhecimento de faces utilizando haar cascade
+
+Para funcionar é necessário treinar varios casos de teste antes executando o train.py 
+Ex:
+python train.py lucas
